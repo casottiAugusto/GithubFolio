@@ -7,7 +7,7 @@ export default function Footer() {
   return (
     <Container>
       <a
-        href="https://github.com/adryansf"
+        href="https://github.com/casottiAugusto"
         target="_blank"
         rel="noopener noreferrer"
       >
